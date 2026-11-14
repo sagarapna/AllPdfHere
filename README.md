@@ -37,6 +37,6 @@ New documents and updated resources may be added through new releases. Visit the
 
 <div align="center">
 
-Made available through **AllPdfHere** · [View Releases](https://github.com/sagarapna/AllPdfHere/releases)
+Made available through **SAGAR TIWARI** · [View Releases](https://github.com/sagarapna/AllPdfHere/releases)
 
 </div>
